@@ -1,0 +1,2 @@
+rootProject.name = "PinchExample"
+include ':app'
